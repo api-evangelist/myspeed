@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-MySpeed is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://myspeed.dev/
+MySpeed is an open-source, self-hosted application that automatically runs internet speed tests to monitor download, upload, and ping metrics over time. It provides detailed analytics, visualizations, multilingual support, and integrations with services like Discord, Telegram, and webhooks. Users can schedule tests at flexible intervals, view historical data, and keep their connection data private on their own servers.
+
+**Areas:** Company · Internet · Monitoring · Open-Source · Analytics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://myspeed.dev/)
+- [Documentation](https://docs.myspeed.dev/)
+- [Getting started](https://myspeed.dev/install)
+- [Pricing](https://myspeed.dev/pricing)
+- [Support](https://myspeed.dev/support)
+- [Blog](https://myspeed.dev/blog)
+- [Terms of service](https://myspeed.dev/terms)
+- [Privacy policy](https://myspeed.dev/privacy)
+- [GitHub](https://github.com/gnmyt)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/myspeed/](https://apis.io/providers/myspeed/).
